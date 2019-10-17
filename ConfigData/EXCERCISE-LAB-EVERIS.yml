@@ -17,7 +17,7 @@ persons:
      44444444: Valentin,PanYagua
      55555555: Cristiano,Ronaldo
 lab-everis:
-  list-persons:
+  listPersons:
     -
       dni: "11111111"
       nombre: "Johny"
