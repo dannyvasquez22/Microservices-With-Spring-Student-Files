@@ -16,7 +16,7 @@ persons:
      33333333: Keiko,Fujimori
      44444444: Valentin,PanYagua
      55555555: Cristiano,Ronaldo
-prueba: Danny
+
 lab:
   list:
     - dni: "11111111"
@@ -34,4 +34,5 @@ lab:
     - dni: "55555555"
       nombre: "Cristiano"
       apellido: "Ronaldo"
+  prueba: Danny
   
