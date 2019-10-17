@@ -16,4 +16,25 @@ persons:
      33333333: Keiko,Fujimori
      44444444: Valentin,PanYagua
      55555555: Cristiano,Ronaldo
+list-persons:
+  -
+    dni: "11111111"
+    nombre: "Johny"
+    apellido: "Vegas"
+  -
+    dni: "22222222"
+    nombre: "Marco"
+    apellido: "Patiño"
+  -
+    dni: "33333333"
+    nombre: "Keiko"
+    apellido: "Fujimori"
+  -
+    dni: "44444444"
+    nombre: "Valentin"
+    apellido: "PanYagua"
+  -
+    dni: "55555555"
+    nombre: "Cristiano"
+    apellido: "Ronaldo"
   
