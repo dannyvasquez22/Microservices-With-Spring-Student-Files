@@ -16,8 +16,8 @@ persons:
      33333333: Keiko,Fujimori
      44444444: Valentin,PanYagua
      55555555: Cristiano,Ronaldo
-lab-everis:
-  listPersons:
+lab:
+  list:
     - dni: "11111111"
       nombre: "Johny"
       apellido: "Vegas"
