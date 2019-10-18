@@ -7,27 +7,26 @@ eureka:
       defaultZone: http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
       
 ---
-lab:
-  list:
-    - 
-      dni: 11111111
-      nombre: Johny
-      apellido: Vegas
-    - 
-      dni: 22222222
-      nombre: Marco
-      apellido: Patiño
-    - 
-      dni: 33333333
-      nombre: Keiko
-      apellido: Fujimori
-    - 
-      dni: 44444444
-      nombre: Valentin
-      apellido: PanYagua
-    - 
-      dni: 55555555
-      nombre: Cristiano
-      apellido: Ronaldo
-  prueba: "Danny"
+list:
+  - 
+    dni: 11111111
+    nombre: Johny
+    apellido: Vegas
+  - 
+    dni: 22222222
+    nombre: Marco
+    apellido: Patiño
+  - 
+    dni: 33333333
+    nombre: Keiko
+    apellido: Fujimori
+  - 
+    dni: 44444444
+    nombre: Valentin
+    apellido: PanYagua
+  - 
+    dni: 55555555
+    nombre: Cristiano
+    apellido: Ronaldo
+prueba: "Danny"
 test: PRUEBA
