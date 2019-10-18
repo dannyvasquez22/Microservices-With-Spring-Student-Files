@@ -29,5 +29,5 @@ lab:
       dni: 55555555
       nombre: Cristiano
       apellido: Ronaldo
-  prueba: 'Danny'
+  prueba: "Danny"
   
