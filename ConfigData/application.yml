@@ -37,3 +37,4 @@ testClient: prueba
 
 ---
 mensaje: Se obtuvo el listado de personas exitosamente
+merror: Persona no encontrada con dni
