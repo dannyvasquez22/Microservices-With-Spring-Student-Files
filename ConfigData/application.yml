@@ -34,4 +34,6 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 
 ---
 testClient: prueba
+
+---
 mensaje: Se obtuvo el listado de personas exitosamente
